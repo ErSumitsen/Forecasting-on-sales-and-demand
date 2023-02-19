@@ -1,5 +1,7 @@
+pip 23.0.1
 pandas
 streamlit
 numpy
 sklearn
+matplotlib
 statsmodels
